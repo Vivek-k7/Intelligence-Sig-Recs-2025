@@ -5,6 +5,10 @@
 - Then pass through a fined tuned English to French model(Helsinki-NLP/opus-mt-en-fr)
 - To finally get the answer in French.
 
+<img width="940" height="105" alt="image" src="https://github.com/user-attachments/assets/bcf2d697-6da0-4c32-aa03-c177f044d8bc" />
+
+  
+
 ### Future Improvements:
 - Need to manage time better and focus more on quality more than quantity
 - The unanswerable questions could have been handled better instead of a hardcoded threshold
